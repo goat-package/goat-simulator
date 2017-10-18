@@ -1,4 +1,4 @@
-# goat-simulator
+# Goat-simulator
 
 Simulator
 
