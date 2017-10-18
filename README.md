@@ -4,7 +4,9 @@ Simulator
 
 AbCSimulator is used to assess the performance of three different distributed infrastructures, proposed to coordinate the interaction for attribute-based communication.
 
-To use the Simulator, you can go to the folder tests: https://github.com/goat-package/goat-simulator/tree/master/Simulator/src
+To use the Simulator, you can go to the folder tests: 
+
+https://github.com/goat-package/goat-simulator/tree/master/Simulator/src/tests
 
 There are three main files, one for each infrastructure. The code is self-explanatory and you can change the parameters and get results. After the simulation is finished, the results will be plotted for you.
 
